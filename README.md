@@ -4,21 +4,21 @@
 
 Partie Git
 
+![test](https://git-scm.com/images/logos/downloads/Git-Icon-Black.png)
+
 ---
- <<<<Vocabulaire>>>>>
+
+//////Vocabulaire//////
 
 Dépot = repository
 
-
- <<<<Techniques >>>>>
+//////Techniques /////
 
 Pour cloner un repo depuis git vers mon pc, git clone <adresse https ou ssh du repo>
 
-Pour le MD, on peut barrer une ligne avec <del> <del>
- <<<< Ressources >>>>>
+Pour le MD, on peut barrer une ligne avec une balise // del //
+<<<< Ressources >>>>>
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet --> Comment marche MarkDown
-
-
 
 ---
 
@@ -30,4 +30,4 @@ pwd : connaitre son emplacement dans le terminal
 
 cd : requete pour se deplacer / "." on parle du dossier actuel, '..' le dossier parent.
 
-ls : Liste tous les éléments du dossier actuel. 
+ls : Liste tous les éléments du dossier actuel.
